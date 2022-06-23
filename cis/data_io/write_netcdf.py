@@ -17,6 +17,7 @@ types = {'int8': 'i1',
 
 index_name = 'obs'
 
+# need to add a string type
 
 def __add_metadata(var, data):
     if data.standard_name:
